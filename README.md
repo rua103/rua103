@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b2838,100:415a77&height=230&section=header&text=✦%20rua103%20✦&fontSize=45&fontColor=e0e1dd&animation=fadeIn&fontAlignY=32&desc=♪%20Don%27t%20say%20lazy%20♪&descSize=18&descAlignY=52&descColor=778da9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,50:5B9BD5,100:D6EAF8&height=230&section=header&text=✦%20rua103%20✦&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=♪%20Don%27t%20say%20lazy%20♪&descSize=18&descAlignY=52&descColor=E8F4F8" width="100%"/>
+
+<br>
+
+<!-- 🎸 秋山澪横幅 — 请将 src 替换为你的图片链接（推荐 1200×400 蓝白色调横幅） -->
+<img src="./assets/mio-banner.png" width="60%" alt="♪ Akiyama Mio ♪"/>
 
 <br>
 
@@ -17,6 +22,9 @@
 ## ♪ About Me ～ 関於我 ～
 
 > *「恥ずかしいセリフ禁止！」—— 秋山澪*
+
+<!-- 🎸 秋山澪装饰图 — 请替换为你的澪立绘 PNG（推荐透明背景，200×300 左右） -->
+<img align="right" src="./assets/mio-standing.png" width="140" alt="Mio ♡"/>
 
 (´｡• ᵕ •｡`) ♡ 你好呀！我是 **rua103**，一个热爱技术同时沉迷二次元的学生～
 
@@ -300,6 +308,11 @@ Jintao Gu, Guoshun Nan, Kaixiang Pan, **Hanying Fu**, Danchen Guan, Binzhou Qiu,
 
 <div align="center">
 
+<!-- 🎸 秋山澪装饰图 — 请替换为你的澪 Q 版/演奏图（推荐蓝白色调，300×200 左右） -->
+<img src="./assets/mio-playing.png" width="200" alt="♪ Mio Playing Bass ♪"/>
+
+<br><br>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rua103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=415a77&title_color=778da9&text_color=e0e1dd" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rua103&theme=tokyonight&hide_border=true&background=0d1117&ring=415a77&fire=e0e1dd&currStreakLabel=778da9&sideLabels=778da9&dates=778da9" />
@@ -316,7 +329,12 @@ Jintao Gu, Guoshun Nan, Kaixiang Pan, **Hanying Fu**, Danchen Guan, Binzhou Qiu,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b2838,100:415a77&height=130&section=footer" width="100%"/>
+<!-- 🎸 秋山澪页脚图 — 请替换为你的澪 Q 版/卡通图（推荐蓝白色调，150×150 左右） -->
+<img src="./assets/mio-chibi.png" width="120" alt="Mio Chibi ♡"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6EAF8,50:5B9BD5,100:1B3A5C&height=130&section=footer" width="100%"/>
 
 *♪ 放課後ティータイム、最高！ ♪*
 
@@ -326,6 +344,8 @@ Jintao Gu, Guoshun Nan, Kaixiang Pan, **Hanying Fu**, Danchen Guan, Binzhou Qiu,
 
 *(੭ˊᵕˋ)੭ ♡*
 
-![Visitors](https://komarev.com/ghpvc/?username=rua103&color=415a77&style=flat-square&label=Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=rua103&color=5B9BD5&style=flat-square&label=Visitors)
 
 </div>
+
+
