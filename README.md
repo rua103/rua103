@@ -103,7 +103,7 @@ Jintao Gu, Guoshun Nan, Kaixiang Pan, **Hanying Fu**, Danchen Guan, Binzhou Qiu,
 <tr>
 <td width="50%" valign="top">
 
-### 📝 [StucturedNounCaption](https://github.com/rua103/StucturedNounCaption)
+### 📝 [StructuredNounCaption](https://github.com/rua103/StructuredNounCaption)
 
 **结构化名词图像描述**模型 (PyTorch)
 
@@ -114,6 +114,37 @@ Jintao Gu, Guoshun Nan, Kaixiang Pan, **Hanying Fu**, Danchen Guan, Binzhou Qiu,
 > ✨ **亮点**：结构化中间表示增强可解释性 · 名词引导的两阶段生成 · 多数据集泛化验证
 
 </td>
+<td width="50%" valign="top">
+
+### 🧠 [Umich-pytorch](https://github.com/rua103/Umich-pytorch) — UMICH Deep Learning for Computer Vision
+
+University of Michigan **EECS 498-007 / 598-005** 课程作业、学习笔记与复习资料整理仓库。
+
+- 📚 已完成课程主线：**KNN / Linear Classifier / CNN / ResNet / Transformer / VAE / GAN**
+- 🧪 系统梳理从 **张量计算、向量化实现、自动求导** 到完整深度视觉模型训练流程
+- 📝 整理各作业 README 与学习笔记，作为后续复习与回顾资料
+
+<details>
+<summary> 📚 课程学习主线 ～ Deep Learning for Computer Vision ～ </summary>
+
+<br>
+
+| 模块 | 主题 | 我的学习内容 |
+|------|------|--------------|
+| A1 | KNN / PyTorch 101 | 向量化、张量索引、reshape、batched matrix multiply |
+| A2 | Linear Classifier / Two-Layer Net | SVM、Softmax、手动梯度、基础训练流程 |
+| A3 | Fully Connected Nets / CNN | Dropout、BatchNorm、优化器、卷积前后向 |
+| 2020FA_A4 | Autograd / ResNet / Visualization / Style Transfer / Captioning | 动态计算图、残差网络、输入梯度可视化、风格迁移 |
+| A5 | RNN / LSTM / Transformer | 序列建模、Attention、Positional Encoding、图像描述 |
+| A6 | VAE / GAN / DCGAN | ELBO、KL、Reparameterization、对抗训练与生成模型 |
+
+> ✨ **亮点**：系统走通经典深度学习视觉课程主线 · 从“会用框架”进一步走向“理解训练机制与模型结构”
+
+</details>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📓 [Notebook](https://github.com/rua103/Notebook)
